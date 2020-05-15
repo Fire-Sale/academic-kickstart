@@ -77,6 +77,6 @@ email: "gaof@cs.wisc.edu"
 # - Visitors
 ---
 
-I'm a junior undergrad majoring in CS & Math at UW Madison. Before transferred to Madison, I spent two wonderful years at the CS Department of University of Electronic Science & Technology of China. I love math and am experienced in competitive programming. My current research interests include ML/big data systems, distributed systems and formal methods.
+I'm a junior undergrad majoring in CS & Math at UW Madison. Before transferred to Madison, I spent two wonderful years at the CS Department of University of Electronic Science & Technology of China. I love math and am experienced in competitive programming. My current research interests include ML/big data systems, distributed systems and formal methods. 
 
-I plan to graduate in winter 2021 and will apply for PhD programs that starting from fall 2022. If you are interested, please take a look at my latest [resume](files/cv.pdf). For more personal side projects, you can refer to the descriptions below or visit my [GitHub](https://github.com/fire-sale).
+I plan to graduate in winter 2021 and will apply for PhD programs that starting from fall 2022. If you are interested, please take a look at my latest [resume](files/cv.pdf). For more personal side projects, you can refer to the descriptions below or visit my [GitHub](https://github.com/fire-sale). Recently, I also begin to maintain a website for notes of papers that I've read.
