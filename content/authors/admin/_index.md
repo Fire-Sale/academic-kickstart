@@ -21,9 +21,9 @@ organizations:
 bio: Carpe diem.
 
 interests:
-- ML/Big Data Systems
+- Scalable and automated Machine Learning
 - Distributed Systems
-- Formal Methods
+- Databases
 
 education:
   courses:
@@ -77,7 +77,7 @@ email: "gaof@cs.wisc.edu"
 # - Visitors
 ---
 
-I'm a junior undergrad majoring in CS & Math at UW Madison. Before transferred to Madison, I spent two wonderful years at the CS Department of University of Electronic Science & Technology of China. I love math and am experienced in competitive programming. My current research interests include ML/big data systems, distributed systems and formal methods. 
+I'm a junior undergrad majoring in CS & Math at UW Madison. Before transferred to Madison, I spent two wonderful years at the CS Department of University of Electronic Science & Technology of China. I love math and am experienced in competitive programming. My current research interests include scalable and automated machine learning, distributed systems and databases.
 
 I am applying for PhD programs starting from fall 2022. If you are interested, please take a look at my latest [resume](files/cv.pdf). For more personal projects, you can visit my [GitHub](https://github.com/fire-sale). Recently, I also begin to maintain a [website](https://fire-sale.github.io/paper-notes/) for notes of papers that I've read and plan to read.
 
