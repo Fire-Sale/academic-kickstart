@@ -21,8 +21,8 @@ organizations:
 bio: Carpe diem.
 
 interests:
-- Scalable and automated Machine Learning
-- Distributed Systems
+- Scalable and automated machine learning
+- Distributed systems
 - Databases
 
 education:
