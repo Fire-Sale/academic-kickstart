@@ -21,7 +21,7 @@ organizations:
 bio: Carpe diem.
 
 interests:
-- Scalable and automated machine learning
+- Scalable and efficient machine learning
 - Distributed systems
 - Databases
 
@@ -77,7 +77,7 @@ email: "gaof@cs.wisc.edu"
 # - Visitors
 ---
 
-I'm a junior undergrad majoring in CS & Math at UW Madison. Before transferred to Madison, I spent two wonderful years at the CS Department of University of Electronic Science & Technology of China. I love math and am experienced in competitive programming. My current research interests include scalable and automated machine learning, distributed systems and databases.
+I'm a junior undergrad majoring in CS & Math at UW Madison. Before transferred to Madison, I spent two wonderful years at the CS Department of University of Electronic Science & Technology of China. I love math and am experienced in competitive programming. My current research interests include scalable and efficient machine learning, distributed systems and databases.
 
 I am applying for PhD programs starting from fall 2022. If you are interested, please take a look at my latest [resume](files/cv.pdf). For more personal projects, you can visit my [GitHub](https://github.com/fire-sale). Recently, I also begin to maintain a [website](https://gaofan.gitbook.io/paper-notes/) for notes of papers that I've read and plan to read.
 
