@@ -20,10 +20,10 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: Carpe diem.
 
-interests:
-- Scalable and efficient machine learning
-- Distributed systems
-- Databases
+# interests:
+# - Scalable and efficient machine learning
+# - Distributed systems
+# - Databases
 
 education:
   courses:
