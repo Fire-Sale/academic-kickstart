@@ -84,4 +84,5 @@ I'm a senior undergrad majoring in CS & Math at UW Madison. Before transferred t
 
 I am looking for a full time job now. If you are interested, please take a look at my latest [resume](files/cv.pdf). For more personal projects, you can visit my [GitHub](https://github.com/fire-sale). 
 
+Last Updated: Nov 2020.
 
