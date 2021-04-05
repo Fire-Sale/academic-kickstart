@@ -75,6 +75,7 @@ email: "gaof@cs.wisc.edu"
 # user_groups:
 # - Researchers
 # - Visitors
+# Recently, I also begin to maintain a [website](https://gaofan.gitbook.io/paper-notes/) for notes of papers that I've read and plan to read.
 ---
 
 I'm a senior undergrad majoring in CS & Math at UW Madison. Before transferred to Madison, I spent two wonderful years at the CS Department of University of Electronic Science & Technology of China. I love math and am experienced in competitive programming.
@@ -82,5 +83,5 @@ I'm a senior undergrad majoring in CS & Math at UW Madison. Before transferred t
 ~~I am applying for PhD programs starting from fall 2022.~~ 
 
 I am looking for a full time job now. If you are interested, please take a look at my latest [resume](files/cv.pdf). For more personal projects, you can visit my [GitHub](https://github.com/fire-sale). 
-# Recently, I also begin to maintain a [website](https://gaofan.gitbook.io/paper-notes/) for notes of papers that I've read and plan to read.
+
 
